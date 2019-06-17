@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+ .box{
+display: inline-block;
+  margin-top:245px;
+  margin-left: 3%;
+  height: 200px;
+  width: 200px;
+  border: 1px solid rgb(160, 158, 158);
+  border-radius: 10px;
+  
+ }
+ 
+ .numbers{
+  font-size: 72px;
+  margin-bottom: 30px;
+  
+ }
+.nom{
+  color: gray;
+  font-weight: bold;
+  font-size: 18px;
+
+}
